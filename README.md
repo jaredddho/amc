@@ -24,4 +24,4 @@ Services:
 Requisities:
 - Generation of public and private keys from Adobe.IO
 - application.properties
-- application-{{profile}}.properties with the required credentials
+- application-template.properties with the required credentials
